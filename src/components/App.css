@@ -1,0 +1,71 @@
+/* Styles go here */
+.web3-address {
+    background: rgb(196, 209, 10);
+    border: 1px solid #999;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 10px;
+    height: 22px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 1;
+    text-align: center;
+    
+  }
+
+.primary-text {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 10px;
+    color: rgb(196, 209, 10);
+    height: 22px;
+    margin-right: 5px;
+    margin-top: -1px;
+    padding: 1;
+    text-align: center;
+    
+  }
+
+  .buttonTrue {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #000;
+    background-color: rgb(0, 255, 98);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .buttonFalse {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+
+  .tx {        
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);  
+    border: none;
+    border-radius: 0px;    
+  }
+  
